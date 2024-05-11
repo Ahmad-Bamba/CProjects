@@ -1,0 +1,8 @@
+Hello, world!
+---
+
+This is some sample text, isn't that great?
+I w0nder what a hexdump of this file would look like??
+08!
+
+9876543210abcd
